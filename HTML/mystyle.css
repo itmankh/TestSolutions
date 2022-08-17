@@ -1,0 +1,89 @@
+body{
+	background-color: #F5F5F5;
+}
+
+#main{
+	max-width: 1300px;
+	margin: 0 auto;
+	font-family: 'Akshar', sans-serif;
+    font-family: 'Anek Odia', sans-serif;
+    font-size: 24px;
+}
+
+
+.webb{
+	text-transform: uppercase;
+	margin-left: 12.5px;
+	margin-bottom: 0;
+	}
+
+#about{
+	margin-left: 12.5px;
+	margin-right: 12.5px;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+#first-par{
+	border-left: 4px solid #EE972B;
+	padding-left: 5px;
+	margin-top: 0;
+}
+
+h3{
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin: auto 12.5px;
+	color: #EE972B;
+}
+
+hr.first-hr{
+	margin: auto 12.5px;
+	border: 1px solid #EE972B;
+}
+
+p{
+	margin-left: 12.5px;
+	margin-right: 12.5px;
+}
+
+.imggallery{
+	width: 300px;
+	height: 300px;
+	float: left;
+	background-size: cover;
+	margin: 12px 12.5px;
+}
+
+#photo1{
+	background-image: url(./images/1.png);
+}
+
+#photo2{
+	background-image: url(./images/2.png);
+
+}
+
+#photo3{
+	background-image: url(./images/3.png);
+}
+
+#photo4{
+	background-image: url(./images/4.png);
+}
+
+#photo5{
+	background-image: url(./images/5.png);
+}
+
+#photo6{
+	background-image: url(./images/6.png);
+}
+
+#photo7{
+	background-image: url(./images/7.png);
+}
+
+#photo8{
+	background-image: url(./images/8.png);
+}
